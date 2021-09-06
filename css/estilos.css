@@ -1,0 +1,17 @@
+/* Esto es una hoja de estilos */
+
+body {
+    background-color: teal;
+}
+
+h1 {
+    text-align: center;
+}
+
+.tituloVerde {
+    color:darkred;
+}
+
+.tituloAmarillo{
+    color: yellow;
+}
